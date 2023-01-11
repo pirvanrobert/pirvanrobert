@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Robert Pirvan</h1>
 <h3 align="center">Front-End Developer and Tech enthusiast from Romania. Tech never stay the same. Human evolve non-stop witch mean tech time fly and continue to impress. Passionate about developing - the best reward I find doing my job. No pain - No Gain. I love chess and football.</h3>
 
-img align="right" alt="Coding" width="400" src="https://gfycat.com/appropriatehilariouscats.gif"
+img align="right" alt="Coding" width="400" src="[https://gfycat.com/appropriatehilariouscats.gif](https://gfycat.com/appropriatehilariouscats)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirvanrobert&label=Profile%20views&color=0e75b6&style=flat" alt="pirvanrobert" /> </p>
 
