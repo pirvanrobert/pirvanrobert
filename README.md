@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Robert Pirvan</h1>
 <h3 align="center">Front-End Developer and Tech enthusiast from Romania. I am a bigginer in this game, similar to the Lockness </h3>
 
-img align="right" alt="Coding" width="400" src="[https://gfycat.com/appropriatehilariouscats.gif](https://gfycat.com/appropriatehilariouscats)"
+img align="right" alt="Coding" width="400" src="[[https://gfycat.com/appropriatehilariouscats.gif](https://gfycat.com/appropriatehilariouscats)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fabstract-coding-wallpaper-glowing-numbers-binary-code-computing-concept-d-rendering-image155772299&psig=AOvVaw04M9KH81Vo7yxrS7mg0NPl&ust=1673549015608000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCpjI2WwPwCFQAAAAAdAAAAABAE)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirvanrobert&label=Profile%20views&color=0e75b6&style=flat" alt="pirvanrobert" /> </p>
 
